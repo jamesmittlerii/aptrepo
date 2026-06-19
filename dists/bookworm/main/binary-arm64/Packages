@@ -17,3 +17,42 @@ Description: Bristol Vox Continental LV2 instrument plugin
  Headless Vox Continental emulator from the Bristol synthesizer,
  packaged as an LV2 instrument for use in compatible hosts.
 
+Package: lv2-connie
+Source: connie
+Version: 0.5.6
+Architecture: arm64
+Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
+Installed-Size: 85
+Provides: lv2-plugin
+Homepage: https://github.com/jamesmittlerii/connie
+Priority: optional
+Section: sound
+Filename: pool/main/c/connie/lv2-connie_0.5.6_arm64.deb
+Size: 13536
+SHA256: ade9f76fa49e568eb0f2016b97ceff01fad3a861917018a7a0aad167e136328d
+SHA1: 138a3f509ca19f4d01159828f2817cc732d2ed8e
+MD5sum: 64c0322fe5c40403436d6b04e8154a38
+Description: Vox Continental organ LV2 instrument plugin
+ Connie simulates the signal path of a classic analog polyphonic organ
+ such as the Vox Continental. This package installs the LV2 plugin bundle
+ for use in compatible hosts (Ardour, Carla, REAPER, etc.).
+
+Package: lv2-foo-yc20
+Source: foo-yc20
+Version: 1.0.1
+Architecture: arm64
+Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
+Installed-Size: 1497
+Provides: lv2-plugin
+Homepage: https://github.com/jamesmittlerii/foo-yc20
+Priority: optional
+Section: sound
+Filename: pool/main/f/foo-yc20/lv2-foo-yc20_1.0.1_arm64.deb
+Size: 321812
+SHA256: 22da0b244989ea88a4ba7548d15f6cec5a89e9378900b0c38dc481eb6d8e047a
+SHA1: 0a533ef580c0132dd6b4a254072b8cfbf73f5455
+MD5sum: 4d4cb1ce5a11ae5a5a2afacb15def8b8
+Description: Yamaha YC-20 combo organ LV2 instrument plugin
+ Faust implementation of the 1969 Yamaha YC-20 combo organ, packaged
+ as a headless LV2 instrument for use in compatible hosts.
+
