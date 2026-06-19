@@ -1,6 +1,6 @@
 Package: lv2-bristol-vox
 Source: bristol
-Version: 1.0.1
+Version: 1.0.2
 Architecture: arm64
 Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
 Installed-Size: 151
@@ -8,11 +8,11 @@ Provides: lv2-plugin
 Homepage: https://github.com/jamesmittlerii/bristol
 Priority: optional
 Section: sound
-Filename: pool/main/b/bristol/lv2-bristol-vox_1.0.1_arm64.deb
-Size: 36260
-SHA256: b340393216da394fd7011a176773f82f0b922e0f5a7e5df30fed61bba4993ea6
-SHA1: 215184326bd3a206e25292db75b955e19cd5ca21
-MD5sum: 18254f5ea762b9f3ac94bd3e11afd9cb
+Filename: pool/main/b/bristol/lv2-bristol-vox_1.0.2_arm64.deb
+Size: 36240
+SHA256: 7d29096ba3f3b5b7d9ad2e2352a717d20c89af24dfdaa2a250dd43547b7c089f
+SHA1: 399a7e06d0ba5d9879df7ddd767b2db9c37ec354
+MD5sum: dbde4db94100aed3843a69b6fd4c4a5c
 Description: Bristol Vox Continental LV2 instrument plugin
  Headless Vox Continental emulator from the Bristol synthesizer,
  packaged as an LV2 instrument for use in compatible hosts.
