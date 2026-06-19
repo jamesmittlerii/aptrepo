@@ -56,3 +56,24 @@ Description: Yamaha YC-20 combo organ LV2 instrument plugin
  Faust implementation of the 1969 Yamaha YC-20 combo organ, packaged
  as a headless LV2 instrument for use in compatible hosts.
 
+Package: sfz-lutheal
+Version: 1.0.1
+Architecture: all
+Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
+Installed-Size: 402
+Depends: ca-certificates, curl | wget, tar
+Homepage: https://github.com/jamesmittlerii/sfz-lutheal
+Priority: optional
+Section: sound
+Filename: pool/main/s/sfz-lutheal/sfz-lutheal_1.0.1_all.deb
+Size: 18588
+SHA256: 109372e2a3db0a179c8dd4114f518950d4b08eb447ea9b6d7b98de885811fd6f
+SHA1: 977f95daa259b754cddbe5388dff098eafb5eb0d
+MD5sum: 55ad802e1f5d11d2b0a8c24ae4edd0d7
+Description: Luthéal Piano Cimbalom SFZ instrument
+ SFZ instrument mapping of the Luthéal piano in cimbalom (all stops) registration.
+ .
+ Sample FLACs are downloaded on first install from the project's GitHub release
+ assets (~1 GiB). The SFZ is installed to /usr/share/sfz/pianos/lutheal/ for
+ use with SFZ-compatible samplers (sfizz, Sforzando, etc.).
+
