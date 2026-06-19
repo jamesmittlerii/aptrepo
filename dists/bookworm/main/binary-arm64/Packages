@@ -1,20 +1,19 @@
-Package: lv2-connie
-Source: connie
-Version: 0.5.5
+Package: lv2-foo-yc20
+Source: foo-yc20
+Version: 1.0.1
 Architecture: arm64
 Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
-Installed-Size: 85
+Installed-Size: 1497
 Provides: lv2-plugin
-Homepage: https://github.com/jamesmittlerii/connie
+Homepage: https://github.com/jamesmittlerii/foo-yc20
 Priority: optional
 Section: sound
-Filename: pool/main/c/connie/lv2-connie_0.5.5_arm64.deb
-Size: 13524
-SHA256: cfeb23347534f381ea9bd020907ba8042a48d41816c4f58593e36164f2f91c95
-SHA1: b2ce5a8400c8ddb20c1c5ac558d54e65d4db1ed7
-MD5sum: 9a6515a4535247d57fd8e73bb3706959
-Description: Vox Continental organ LV2 instrument plugin
- Connie simulates the signal path of a classic analog polyphonic organ
- such as the Vox Continental. This package installs the LV2 plugin bundle
- for use in compatible hosts (Ardour, Carla, REAPER, etc.).
+Filename: pool/main/f/foo-yc20/lv2-foo-yc20_1.0.1_arm64.deb
+Size: 321812
+SHA256: 22da0b244989ea88a4ba7548d15f6cec5a89e9378900b0c38dc481eb6d8e047a
+SHA1: 0a533ef580c0132dd6b4a254072b8cfbf73f5455
+MD5sum: 4d4cb1ce5a11ae5a5a2afacb15def8b8
+Description: Yamaha YC-20 combo organ LV2 instrument plugin
+ Faust implementation of the 1969 Yamaha YC-20 combo organ, packaged
+ as a headless LV2 instrument for use in compatible hosts.
 
