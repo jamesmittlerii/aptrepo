@@ -13,10 +13,23 @@ The `gh-pages` branch is created automatically on the first successful release. 
 
 ## Install (Debian 12 / Raspberry Pi OS Bookworm)
 
-```bash
-echo "deb [trusted=yes] https://jamesmittlerii.github.io/aptrepo/ bookworm main" \
-  | sudo tee /etc/apt/sources.list.d/jamesmittlerii-lv2.list
+**Desktop amd64:**
 
+```bash
+echo "deb [trusted=yes arch=amd64] https://jamesmittlerii.github.io/aptrepo/ bookworm main" \
+  | sudo tee /etc/apt/sources.list.d/jamesmittlerii-lv2.list
+```
+
+**Raspberry Pi 64-bit (Pi OS / Debian arm64)** — use `arch=arm64` so apt does not look for armhf packages we do not publish:
+
+```bash
+echo "deb [trusted=yes arch=arm64] https://jamesmittlerii.github.io/aptrepo/ bookworm main" \
+  | sudo tee /etc/apt/sources.list.d/jamesmittlerii-lv2.list
+```
+
+Then:
+
+```bash
 sudo apt update
 sudo apt install lv2-connie
 ```
