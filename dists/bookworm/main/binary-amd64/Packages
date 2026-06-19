@@ -1,19 +1,19 @@
-Package: lv2-foo-yc20
-Source: foo-yc20
+Package: lv2-bristol-vox
+Source: bristol
 Version: 1.0.1
 Architecture: amd64
 Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
-Installed-Size: 1489
+Installed-Size: 103
 Provides: lv2-plugin
-Homepage: https://github.com/jamesmittlerii/foo-yc20
+Homepage: https://github.com/jamesmittlerii/bristol
 Priority: optional
 Section: sound
-Filename: pool/main/f/foo-yc20/lv2-foo-yc20_1.0.1_amd64.deb
-Size: 356816
-SHA256: e9f139222cb6a21f1bd272abc22cf24200b0fe94e74f77448455182f932bf994
-SHA1: 76da036f08ffe57c6955473d7c0ee14395cede83
-MD5sum: da5ef713002ae1f799a5e53e2017cb44
-Description: Yamaha YC-20 combo organ LV2 instrument plugin
- Faust implementation of the 1969 Yamaha YC-20 combo organ, packaged
- as a headless LV2 instrument for use in compatible hosts.
+Filename: pool/main/b/bristol/lv2-bristol-vox_1.0.1_amd64.deb
+Size: 38728
+SHA256: 6efcaa7bee5e9d27f5dbde75db88756b51e3aafad262a1225e7a81f23121847f
+SHA1: 0eaf9fd97cbf1fe66fbc7804db5306d6af6f183d
+MD5sum: fd57e8a72eb1a2c906eb73010aa908c9
+Description: Bristol Vox Continental LV2 instrument plugin
+ Headless Vox Continental emulator from the Bristol synthesizer,
+ packaged as an LV2 instrument for use in compatible hosts.
 
