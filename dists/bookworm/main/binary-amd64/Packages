@@ -39,7 +39,7 @@ Description: Vox Continental organ LV2 instrument plugin
 
 Package: lv2-foo-yc20
 Source: foo-yc20
-Version: 1.0.2
+Version: 1.0.3
 Architecture: amd64
 Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
 Installed-Size: 1489
@@ -47,11 +47,11 @@ Provides: lv2-plugin
 Homepage: https://github.com/jamesmittlerii/foo-yc20
 Priority: optional
 Section: sound
-Filename: pool/main/f/foo-yc20/lv2-foo-yc20_1.0.2_amd64.deb
-Size: 356512
-SHA256: d51d8d00263b93d47842eb7b4cdc6dbdb1ee830abc86adee56fc472f7df54458
-SHA1: f1ff3111c98fbcfd84518d4f08c235153e281c8c
-MD5sum: a3bfc499bc800b19abaa4f45aa7e82ef
+Filename: pool/main/f/foo-yc20/lv2-foo-yc20_1.0.3_amd64.deb
+Size: 356104
+SHA256: 7ef185e3a57f04486ffb0d0fd5e34e43fde24e1c6d1bfb303d9d191395e3e474
+SHA1: e94ba7857d8f0bfd1cebe70f9513969c27fe81ea
+MD5sum: 21b5ae7b450a32bc3e7d5f277b6e4382
 Description: Yamaha YC-20 combo organ LV2 instrument plugin
  Faust implementation of the 1969 Yamaha YC-20 combo organ, packaged
  as a headless LV2 instrument for use in compatible hosts.
