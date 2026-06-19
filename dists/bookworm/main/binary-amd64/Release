@@ -1,6 +1,6 @@
 Archive: stable
 Component: main
-Origin: James Mittler LV2
-Label: James Mittler LV2
+Origin: James Mittler
+Label: James Mittler
 Architecture: amd64
-Description: LV2 plugins
+Description: Debian packages
