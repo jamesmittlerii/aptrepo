@@ -1,6 +1,6 @@
 Package: lv2-connie
 Source: connie
-Version: 0.5.1
+Version: 0.5.2
 Architecture: arm64
 Maintainer: James Mittler <jamesmittlerii@my.smccd.edu>
 Installed-Size: 85
@@ -8,11 +8,11 @@ Provides: lv2-plugin
 Homepage: https://github.com/jamesmittlerii/connie
 Priority: optional
 Section: sound
-Filename: pool/main/c/connie/lv2-connie_0.5.1_arm64.deb
-Size: 13492
-SHA256: a61148fa436cea60fce10eea5f4d10b1bb86caef2432f9695a4cd5ea148bf1db
-SHA1: 580f08297f6908c187689aa196a9e6c4a4b87f53
-MD5sum: 2096b7297f04f7bfff3b1888c080d7db
+Filename: pool/main/c/connie/lv2-connie_0.5.2_arm64.deb
+Size: 13496
+SHA256: 5247e4b7794b8437b49f8b41151c08be4b8ce05bbb94502fad11a6f16355c9c7
+SHA1: 36d1cd5149ee98b5c25f53b7db0697d2474d8bb6
+MD5sum: a354666a6784253e59603815aa562724
 Description: Vox Continental organ LV2 instrument plugin
  Connie simulates the signal path of a classic analog polyphonic organ
  such as the Vox Continental. This package installs the LV2 plugin bundle
