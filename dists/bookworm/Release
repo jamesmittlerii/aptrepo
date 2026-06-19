@@ -2,28 +2,28 @@ Origin: James Mittler LV2
 Label: James Mittler LV2
 Suite: stable
 Codename: bookworm
-Date: Fri, 19 Jun 2026 15:22:43 UTC
+Date: Fri, 19 Jun 2026 15:30:27 UTC
 Architectures: amd64 arm64
 Components: main
 Description: LV2 plugins
 MD5Sum:
- 1b025fef684e814074de7017b6f5fee4 2104 main/binary-amd64/Packages
- ad55121c61039c3281f7ced4c701cfff 913 main/binary-amd64/Packages.gz
+ 4e74d57f16419fdcca7aadaf4fe8706c 2104 main/binary-amd64/Packages
+ 0d8896292d96776283e8f517c06f1f41 912 main/binary-amd64/Packages.gz
  315d5068f71c2fabac8c62775a178165 128 main/binary-amd64/Release
- edc86b640778dccc776da1ff4751907a 2104 main/binary-arm64/Packages
- 122d2bff1109d7c1760aecedb1b2ef82 912 main/binary-arm64/Packages.gz
+ afa296a019bd2ee46ede78efb0e78ddc 2104 main/binary-arm64/Packages
+ 8e9dc86c3f3d8d76e5c5ece95887a66e 914 main/binary-arm64/Packages.gz
  aa81d430626f59de7bff46cb3736796e 128 main/binary-arm64/Release
 SHA1:
- c0794801c833b5382659bf4cadf4a0604a4b66bf 2104 main/binary-amd64/Packages
- 76a19a8b3e599524971c65ca5dc30a1b89cd5f82 913 main/binary-amd64/Packages.gz
+ 1121b307c6b6d508309d21568f2ae3116333b0bd 2104 main/binary-amd64/Packages
+ 08831ffdcee8b25a2fb974ff240d4c43d1f7200b 912 main/binary-amd64/Packages.gz
  d9ab516c072db943cf1070384a6c7e925cd43458 128 main/binary-amd64/Release
- b3f5bb1de69b83badb0114950ccb3d4554b8ed48 2104 main/binary-arm64/Packages
- 7634c53e6e6a5d1e3e3927545420ea09238faabe 912 main/binary-arm64/Packages.gz
+ 36cefa731c3ef07319d61c552c18b0c193cf7d97 2104 main/binary-arm64/Packages
+ a793eec263898a5bb2aaf9dafcd53aa1a2c8ccd5 914 main/binary-arm64/Packages.gz
  00a67cbd45cfd505ca2206e4a555ab801f55fb3b 128 main/binary-arm64/Release
 SHA256:
- a4c7a91d8cc757ed37a0de19a2b69cb68ff70fd174e92ed8e7dac708fb3757d2 2104 main/binary-amd64/Packages
- baf998555aac84836f2615a3851d501d3a926c8fb39858abc444d55ee062681d 913 main/binary-amd64/Packages.gz
+ a79083e8aed5ea31b8f90fa88118080c109c735ee878357cc661caedbc68f610 2104 main/binary-amd64/Packages
+ 6b806cb97898a46b6a5c7faa12f467330dd15119760f1b62d436e4ae24f8a2ef 912 main/binary-amd64/Packages.gz
  1d6e859f9b586a37412d166e846da429a7a6829bf575d4ccb004522da4229bb1 128 main/binary-amd64/Release
- e5e67a6765f418b3266ce44902987eb8c24b860601785b1c617d5eb9c3a343c0 2104 main/binary-arm64/Packages
- 904550744369d65b21d107c7c27cc6eb4831f23218165eb9ab30d63aa0e4e265 912 main/binary-arm64/Packages.gz
+ ea3a13c277e9432341495b69023cd11ed3af30f1c2cfc97e24d5299c89914b8c 2104 main/binary-arm64/Packages
+ b9c802d9b32b4ee56d6cd30995035e9005731905076aac18132e1525d01c9c5c 914 main/binary-arm64/Packages.gz
  c5dd86b8815ed6bfd9e8ab6afded53a55b113330dbe0ff18336a5e941d486103 128 main/binary-arm64/Release
