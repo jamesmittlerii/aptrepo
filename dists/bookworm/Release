@@ -2,28 +2,28 @@ Origin: James Mittler
 Label: James Mittler
 Suite: stable
 Codename: bookworm
-Date: Tue, 23 Jun 2026 17:47:47 UTC
+Date: Tue, 23 Jun 2026 17:50:37 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Debian packages
 MD5Sum:
- ff08c35cdf694ba894c082e792dc3a57 2957 main/binary-amd64/Packages
- 06c0060d73d85ccff95360265e89ea44 1276 main/binary-amd64/Packages.gz
+ 79f5d712299a2b368a59568671d41dff 2957 main/binary-amd64/Packages
+ d81fb73d1a66ecc39cc48be9be65721b 1277 main/binary-amd64/Packages.gz
  0ad27dee1f6d53599bf896cb9491772f 124 main/binary-amd64/Release
- dfb1bfcb0fb7f033f0db4d3e7090f518 2957 main/binary-arm64/Packages
- a87eb019844449704b44cc42aa20f52d 1275 main/binary-arm64/Packages.gz
+ bd4b686a1e7cdf6dff22bc4034de239a 2957 main/binary-arm64/Packages
+ 09337d7271decab79eae2185f1aa0e1e 1274 main/binary-arm64/Packages.gz
  2aff96b0511a092d3e65d0b4db77634d 124 main/binary-arm64/Release
 SHA1:
- 6a3156f7bc95ce0487ed8d6deff131a59d81323a 2957 main/binary-amd64/Packages
- ba8c3073a3f23962cd1aa8ff0c4f1f9e353663ac 1276 main/binary-amd64/Packages.gz
+ c9220f5254c1ac8c7c520ee809c10a787050fd50 2957 main/binary-amd64/Packages
+ e85712f707f4ac4cf27d92f729ae832dcb811f2b 1277 main/binary-amd64/Packages.gz
  07d2d8c1b72643e673c713107c752024702dd848 124 main/binary-amd64/Release
- b9d4a4a0e749d06348a765b2dabf6bf6655fcaf3 2957 main/binary-arm64/Packages
- c1e6ae5e19c78b3d6b74e3e6d4f5509ff9fa7025 1275 main/binary-arm64/Packages.gz
+ c3d283ae7a0da384354aa14c403c42b456a487a6 2957 main/binary-arm64/Packages
+ b8ae1b433801a1bc5cad71ca18c2d41e3c4439d6 1274 main/binary-arm64/Packages.gz
  c1686d17c5a6b1c12f4a6fb23665582512e906fa 124 main/binary-arm64/Release
 SHA256:
- 19e8129afd279cf451dbffa76b40c38278c28347f7227a9c49afcfb195114db7 2957 main/binary-amd64/Packages
- 40cc20794fbc32d456c34146199eacbf2903512f611519343d25f98cc07628b0 1276 main/binary-amd64/Packages.gz
+ 2115059cb30e3805a0d49cd81b4ee35b99a440176bd83769ae5ea04263c8b23f 2957 main/binary-amd64/Packages
+ b6cf91d57a98b0ccddef58c5a2ca94f3550600de994265203258c07834deff15 1277 main/binary-amd64/Packages.gz
  c81de09b84c320858f67f0749d07112aff80a440c0d98265cfdfb608fa1f1d93 124 main/binary-amd64/Release
- 0fe6f013f9c0471d5f0013085d1a3834482a7ba06767f0bca83fbb1b58dc8a84 2957 main/binary-arm64/Packages
- 753ca8e1324a92bc540953480e13f3a8e0e8f8e237052d775bbb6876a4370b8c 1275 main/binary-arm64/Packages.gz
+ 6ab23e2e4ebb1679915e4201d954f81d165e36bbaa51cf609b80d91c78ad3bf5 2957 main/binary-arm64/Packages
+ 3fe02e5db70d879356b97b6909ffe07eafa80d0c6ee5028666361831514b2e6f 1274 main/binary-arm64/Packages.gz
  d3333ac312b22b335645148faba0e080c11669e16253151d9177149d30503853 124 main/binary-arm64/Release
